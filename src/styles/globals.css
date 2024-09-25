@@ -33,6 +33,7 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+  
 }
 
 @media (prefers-color-scheme: dark) {
@@ -40,3 +41,10 @@ a {
     color-scheme: dark;
   }
 }
+p{
+  color: #0a0a0a;
+}
+a:hover{
+  color: #5f6372;
+}
+

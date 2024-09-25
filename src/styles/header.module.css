@@ -1,0 +1,11 @@
+.nav{
+    display:flex;
+    align-items: center;
+    justify-content: end;
+    padding: 20px;
+    height: 5vh;
+}
+.form{
+    margin-left:20px ;
+    margin-right:20px ;
+}   
